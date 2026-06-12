@@ -11,14 +11,11 @@ This project analyzes retail sales data from the Superstore dataset to identify 
 ## Key Features
 
 - Executive KPI Dashboard
-- Profit Leakage Analysis
-- Top Loss-Making Products
-- Loss-Making Subcategory Analysis
-- Discount vs Profit Analysis
+- Sales Analysis by Category
 - Regional Profitability Analysis
-- Customer Segmentation (RFM)
-- Monthly Sales Trend Analysis
-- Sales Forecasting Trend
+- Sales Trend Monitoring
+- Top Products by Profit
+- Interactive Filters (Region, Segment, Category)
 
 ## Technologies Used
 
