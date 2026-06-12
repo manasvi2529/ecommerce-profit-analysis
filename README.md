@@ -1,11 +1,11 @@
 
-E-Commerce Profit Leakage & Business Analytics Dashboard
+# E-Commerce Profit Leakage & Business Analytics Dashboard
 
-Project Overview
+## Project Overview
 
 This project analyzes retail sales data from the Superstore dataset to identify profit leakage, optimize discount strategies, analyze customer behavior, and improve regional profitability.
 
-Key Features
+## Key Features
 
 - Executive KPI Dashboard
 - Profit Leakage Analysis
@@ -17,7 +17,7 @@ Key Features
 - Monthly Sales Trend Analysis
 - Sales Forecasting Trend
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -25,7 +25,7 @@ Technologies Used
 - Jupyter Notebook
 - GitHub
 
-Key Business Insights
+## Key Business Insights
 
 - Technology category generates the highest profit with lower discounts.
 - Furniture category has the highest discount but the lowest profitability.
@@ -33,10 +33,10 @@ Key Business Insights
 - Certain products contribute disproportionately to losses and require pricing review.
 - Sales demonstrate long-term growth with seasonal fluctuations.
 
-Dataset
+## Dataset
 
 Sample Superstore Dataset
 
-Author
+## Author
 
 Manasvi Bhargava
